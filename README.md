@@ -1,11 +1,1 @@
 ﻿# Water-Drinking-Reminder
-
-This Python program sends a desktop notification to remind you to drink water.
-
-It uses the plyer library to show notifications.
-
-The program waits for a fixed time (here 5 minutes).
-
-After every 5 minutes, it shows a notification with the message “Drink Water”.
-
-It keeps running continuously until you stop it manually.
